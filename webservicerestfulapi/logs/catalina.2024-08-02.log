@@ -1,0 +1,34 @@
+02-Aug-2024 16:24:06.568 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.91
+02-Aug-2024 16:24:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 2 2024 12:35:51 UTC
+02-Aug-2024 16:24:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.91.0
+02-Aug-2024 16:24:06.571 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+02-Aug-2024 16:24:06.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Aug-2024 16:24:06.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Aug-2024 16:24:06.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java
+02-Aug-2024 16:24:06.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+11-LTS-240
+02-Aug-2024 16:24:06.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Aug-2024 16:24:06.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP One\IdeaProjects\webservicerestfulapi\webservicerestfulapi
+02-Aug-2024 16:24:06.572 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP One\Downloads\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+02-Aug-2024 16:24:06.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Aug-2024 16:24:06.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Aug-2024 16:24:06.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Aug-2024 16:24:06.580 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP One\Downloads\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP One\IdeaProjects\webservicerestfulapi\webservicerestfulapi
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP One\IdeaProjects\webservicerestfulapi\webservicerestfulapi\temp
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP One\IdeaProjects\webservicerestfulapi\webservicerestfulapi\conf\logging.properties
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\lib\idea_rt.jar=59095:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin
+02-Aug-2024 16:24:06.581 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+02-Aug-2024 16:24:06.588 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+02-Aug-2024 16:24:06.588 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Aug-2024 16:24:06.588 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Aug-2024 16:24:06.603 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+02-Aug-2024 16:24:06.861 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Aug-2024 16:24:06.885 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [539] milliseconds
+02-Aug-2024 16:24:06.926 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Aug-2024 16:24:06.926 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.91]
+02-Aug-2024 16:24:06.934 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP One\IdeaProjects\webservicerestfulapi\webservicerestfulapi\conf\Catalina\localhost\webservicerestfulapi.xml]
+02-Aug-2024 16:24:07.254 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [5.0]. Default version will be used.
+02-Aug-2024 16:24:07.261 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.

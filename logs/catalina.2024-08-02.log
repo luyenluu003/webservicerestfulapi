@@ -1,0 +1,42 @@
+02-Aug-2024 16:29:49.880 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.91
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jul 2 2024 12:35:51 UTC
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.91.0
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+11-LTS-240
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP One\IdeaProjects\webservicerestfulapi
+02-Aug-2024 16:29:49.883 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP One\Downloads\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+02-Aug-2024 16:29:49.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Aug-2024 16:29:49.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Aug-2024 16:29:49.889 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP One\Downloads\apache-tomcat-9.0.91-windows-x64\apache-tomcat-9.0.91
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP One\IdeaProjects\webservicerestfulapi
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP One\IdeaProjects\webservicerestfulapi\temp
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP One\IdeaProjects\webservicerestfulapi\conf\logging.properties
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\lib\idea_rt.jar=59370:C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin
+02-Aug-2024 16:29:49.890 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+02-Aug-2024 16:29:49.892 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.0] using APR version [1.7.4].
+02-Aug-2024 16:29:49.892 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+02-Aug-2024 16:29:49.892 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+02-Aug-2024 16:29:49.897 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+02-Aug-2024 16:29:50.085 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Aug-2024 16:29:50.104 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [343] milliseconds
+02-Aug-2024 16:29:50.139 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Aug-2024 16:29:50.139 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.91]
+02-Aug-2024 16:29:50.148 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP One\IdeaProjects\webservicerestfulapi\conf\Catalina\localhost\webservicerestfulapi.xml]
+02-Aug-2024 16:29:50.418 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [5.0]. Default version will be used.
+02-Aug-2024 16:29:50.421 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+02-Aug-2024 16:29:53.562 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Aug-2024 16:29:53.645 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP One\IdeaProjects\webservicerestfulapi\conf\Catalina\localhost\webservicerestfulapi.xml] has finished in [3,496] ms
+02-Aug-2024 16:29:53.648 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Aug-2024 16:29:53.690 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3586] milliseconds
+02-Aug-2024 16:32:15.839 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Aug-2024 16:32:15.939 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Aug-2024 16:32:15.946 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Aug-2024 16:32:15.949 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
